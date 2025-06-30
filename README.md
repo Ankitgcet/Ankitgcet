@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>
-<h3 align="center">A passionate embedded & IoT developer from India</h3>
+<h3 align="center">A passionate Embedded & IoT developer from India</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ankitgcet](https://github.com/Ankitgcet)
